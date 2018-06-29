@@ -1,5 +1,5 @@
 user: Seanmbecker97
-token: 7a230d467187aee734506d1850447b84a97ee2ca
+token: 5f7fdafb4ed6973fb869dd1a6f4421ba61f6bfa9
 repo: Seanmbecker97/IssueManagementBotTest
 messages:
   warning: >
@@ -16,7 +16,7 @@ messages:
 schedule:
   warning_start: 0 # days before starting warnings
   warning_frequency: 0.00208333 # minimum time between warnings
-  closing: .00694444 # days before closing
+  closing: 0 # days before closing
 
 # label to add to issues when closing automatically 
 label: inactive

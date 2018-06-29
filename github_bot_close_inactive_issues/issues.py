@@ -29,15 +29,9 @@ def issue_last_warning(issue, bot_username):
 
 
 def issue_close(issue, config, days_inactive, label):
-    labels = issue.labels
-    if label:
-        labels += [label]
     body = config["messages"]["closing"].format(days_inactive=days_inactive)
     issue.create_comment(body)
-    try:
-        issue.edit(labels=labels)
-    except:
-        pass
+    issue.add_to_labels(label)
     issue.edit(state='closed')
 
 
