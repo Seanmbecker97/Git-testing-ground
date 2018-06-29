@@ -34,7 +34,11 @@ def issue_close(issue, config, days_inactive, label):
         labels += [label]
     body = config["messages"]["closing"].format(days_inactive=days_inactive)
     issue.create_comment(body)
-    issue.edit(state='closed', labels=labels)
+    try:
+        issue.edit(labels=labels)
+    except:
+        pass
+    issue.edit(state='closed')
 
 
 def issue_warning(issue, config, days_inactive, deadline):
@@ -44,7 +48,7 @@ def issue_warning(issue, config, days_inactive, deadline):
 
 def issue_should_process(issue, config):
     if config["ignore-users"] and issue.user.login in config["ignore-users"]:
-        return False
+        return True
     if config["ignore-labels"]:
         for label in issue.labels:
             if label.name in config["ignore-labels"]:

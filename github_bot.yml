@@ -1,6 +1,6 @@
 user: Seanmbecker97
-token: 58a453823353ac8bb111b8f09c7560a1bda276f9
-repo: IssueManagementBotTest
+token: 7a230d467187aee734506d1850447b84a97ee2ca
+repo: Seanmbecker97/IssueManagementBotTest
 messages:
   warning: >
     Heads up! this issue has been inactive for {days_inactive} days and
@@ -15,7 +15,7 @@ messages:
     closed in error. 
 schedule:
   warning_start: 0 # days before starting warnings
-  warning_frequency: .000694444  # minimum time between warnings
+  warning_frequency: 0.00208333 # minimum time between warnings
   closing: .00694444 # days before closing
 
 # label to add to issues when closing automatically 
@@ -23,13 +23,13 @@ label: inactive
 
 # issue warnings instead of closing until this date 
 # potential to increment closings by specified date(s)?
-# first_closing_date: 2017-03-01 12:00:00
+# first_closing_date: 2018-06-29 11:30:00
 
 # path to custom logging configuration 
 # logging-config: /home/user/logging.conf
 
 # Do not warn or close issues opened by these users 
-# ignore-users:
+ignore-users:
 #   - username1
 #   - username2
 
@@ -37,5 +37,5 @@ label: inactive
 # I would love to figure out how to whitelist labels for this, maybe 
 # check configs for the bot?
 ignore-labels:
-   - blocked
-#   - label2
+
+ - blocked

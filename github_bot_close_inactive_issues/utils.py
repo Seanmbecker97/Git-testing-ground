@@ -5,6 +5,7 @@ from datetime import datetime, timedelta
 import logging
 import logging.config
 import time
+import rootPath
 
 CONFIG_FILE = 'github_bot.yml'
 
@@ -21,7 +22,7 @@ def start_logging(config):
 
 
 def get_config_file():
-    return os.path.join(os.path.expanduser('~'), CONFIG_FILE)
+    return os.path.join(rootPath.rootPath, CONFIG_FILE)
 
 
 def get_config(config_file=None):
@@ -43,7 +44,7 @@ def get_deadline(lm, config):
     first_closing_date = None
     if "first_closing_date" in config:
         first_closing_date = config["first_closing_date"]
-    closing = int(config["schedule"]["closing"])
+    closing = config["schedule"]["closing"]
     deadline = lm + timedelta(days=closing)
     if first_closing_date:
         return max(deadline, first_closing_date)

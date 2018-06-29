@@ -1,11 +1,11 @@
 import argparse
-from .utils import get_config, connect, get_deadline, rate_limit, start_logging, wait_for_rate_limit
-from .issues import issue_last_modified, issue_last_warning, issue_should_process
-from .issues import issue_close, issue_warning
-import logging
+from utils import get_config, connect, get_deadline, rate_limit, start_logging, wait_for_rate_limit
+from issues import issue_last_modified, issue_last_warning, issue_should_process
+from issues import issue_close, issue_warning
 import logging.config
 from datetime import datetime
 import sys
+
 
 def process_issues(config):
     conn = connect(config)
