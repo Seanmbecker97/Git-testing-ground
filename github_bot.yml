@@ -1,0 +1,41 @@
+user: Seanmbecker97
+token: 58a453823353ac8bb111b8f09c7560a1bda276f9
+repo: IssueManagementBotTest
+messages:
+  warning: >
+    Heads up! this issue has been inactive for {days_inactive} days and
+    will be automatically closed on {deadline:%Y-%m-%d} if there is no further activity. 
+    If you believe that this issue has changed in its severity, feel free to change it
+    from its current severity to one of lower priority. Regardless, take a look to make
+    sure whether or not this issue is either solvable at this current time, and adjust
+    or attend to it accordingly.
+  closing: >
+    Notice: this issue has been closed because it has been inactive for {days_inactive} days.
+    You may reopen this issue if you believe that it can be fixed, or if this issue has been
+    closed in error. 
+schedule:
+  warning_start: 0.00347222 # days before starting warnings
+  warning_frequency: .000694444  # minimum time between warnings
+  closing: .00694444 # days before closing
+
+# label to add to issues when closing automatically 
+label: inactive
+
+# issue warnings instead of closing until this date 
+# potential to increment closings by specified date(s)?
+# first_closing_date: 2017-03-01 12:00:00
+
+# path to custom logging configuration 
+# logging-config: /home/user/logging.conf
+
+# Do not warn or close issues opened by these users 
+# ignore-users:
+#   - username1
+#   - username2
+
+# Do not warn or close issues with these labels 
+# I would love to figure out how to whitelist labels for this, maybe 
+# check configs for the bot?
+ignore-labels:
+   - blocked
+#   - label2
