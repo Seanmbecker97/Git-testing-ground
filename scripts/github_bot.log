@@ -479,3 +479,126 @@
 2018-06-29 16:02:42,191 - root - INFO - warning_start: 0, warning_frequency: 0.00208333, closing: 0
 2018-06-29 16:02:43,343 - root - INFO - Issue 4: closed after inactive for 0 days
 2018-06-29 16:02:44,279 - root - INFO - Processed 1 open issues. 1 issues closed. 0 warnings posted.
+2018-06-29 16:07:30,291 - root - INFO - Checking rate limit for user Seanmbecker97
+2018-06-29 16:08:00,051 - root - INFO - Checking rate limit for user Seanmbecker97
+2018-06-29 16:08:10,998 - root - INFO - Checking rate limit for user Seanmbecker97
+2018-06-29 16:08:51,861 - root - INFO - Checking rate limit for user Seanmbecker97
+2018-06-29 16:08:52,117 - root - INFO - Limit: 5000, Remaining: 4918, Reset: 2018-06-29 16:52:27
+2018-06-29 16:08:52,120 - root - INFO - Starting close_inactive_issues
+2018-06-29 16:08:52,120 - root - INFO - Repo: Seanmbecker97/IssueManagementBotTest, User: Seanmbecker97
+2018-06-29 16:08:52,120 - root - INFO - warning_start: 0, warning_frequency: 0.00208333, closing: 0
+2018-06-29 16:08:53,590 - root - INFO - Issue 4: closed after inactive for 0 days
+2018-06-29 16:08:54,576 - root - INFO - Processed 1 open issues. 1 issues closed. 0 warnings posted.
+2018-06-29 16:09:17,356 - root - INFO - Checking rate limit for user Seanmbecker97
+2018-06-29 16:09:17,836 - root - INFO - Limit: 5000, Remaining: 4911, Reset: 2018-06-29 16:52:27
+2018-06-29 16:09:17,838 - root - INFO - Starting close_inactive_issues
+2018-06-29 16:09:17,839 - root - INFO - Repo: Seanmbecker97/IssueManagementBotTest, User: Seanmbecker97
+2018-06-29 16:09:17,839 - root - INFO - warning_start: 0, warning_frequency: 0.00208333, closing: 1
+2018-06-29 16:09:19,115 - root - INFO - Issue 4: inactive for 0 days, will be closed after 2018-06-30 22:49:51
+2018-06-29 16:09:19,115 - root - INFO - Processed 1 open issues. 0 issues closed. 0 warnings posted.
+2018-06-29 16:09:45,147 - root - INFO - Checking rate limit for user Seanmbecker97
+2018-06-29 16:09:45,396 - root - INFO - Limit: 5000, Remaining: 4907, Reset: 2018-06-29 16:52:27
+2018-06-29 16:09:45,398 - root - INFO - Starting close_inactive_issues
+2018-06-29 16:09:45,399 - root - INFO - Repo: Seanmbecker97/IssueManagementBotTest, User: Seanmbecker97
+2018-06-29 16:09:45,399 - root - INFO - warning_start: 0, warning_frequency: 0.00208333, closing: 1
+2018-06-29 16:09:46,481 - root - INFO - Issue 5: warning posted, inactive for 0 days, will be closed after 2018-06-30 23:09:42
+2018-06-29 16:10:20,419 - root - INFO - Checking rate limit for user Seanmbecker97
+2018-06-29 16:10:20,789 - root - INFO - Limit: 5000, Remaining: 4903, Reset: 2018-06-29 16:52:27
+2018-06-29 16:10:20,792 - root - INFO - Starting close_inactive_issues
+2018-06-29 16:10:20,792 - root - INFO - Repo: Seanmbecker97/IssueManagementBotTest, User: Seanmbecker97
+2018-06-29 16:10:20,792 - root - INFO - warning_start: 0, warning_frequency: 0.00208333, closing: 1
+2018-06-29 16:10:22,581 - root - INFO - Issue 5: warning posted, inactive for 0 days, will be closed after 2018-06-30 23:09:42
+2018-06-29 16:10:34,772 - root - INFO - Checking rate limit for user Seanmbecker97
+2018-06-29 16:10:35,027 - root - INFO - Limit: 5000, Remaining: 4899, Reset: 2018-06-29 16:52:27
+2018-06-29 16:10:35,031 - root - INFO - Starting close_inactive_issues
+2018-06-29 16:10:35,031 - root - INFO - Repo: Seanmbecker97/IssueManagementBotTest, User: Seanmbecker97
+2018-06-29 16:10:35,032 - root - INFO - warning_start: 0, warning_frequency: 0.00208333, closing: 1
+2018-06-29 16:10:35,979 - root - INFO - Issue 5: warning posted, inactive for 0 days, will be closed after 2018-06-30 23:09:42
+2018-06-29 16:10:37,052 - root - INFO - Issue 4: inactive for 0 days, will be closed after 2018-06-30 22:49:51
+2018-06-29 16:10:37,052 - root - INFO - Processed 2 open issues. 0 issues closed. 1 warnings posted.
+2018-06-29 16:11:51,681 - root - INFO - Checking rate limit for user Seanmbecker97
+2018-06-29 16:11:51,972 - root - INFO - Limit: 5000, Remaining: 4891, Reset: 2018-06-29 16:52:27
+2018-06-29 16:11:51,975 - root - INFO - Starting close_inactive_issues
+2018-06-29 16:11:51,975 - root - INFO - Repo: Seanmbecker97/IssueManagementBotTest, User: Seanmbecker97
+2018-06-29 16:11:51,975 - root - INFO - warning_start: 0, warning_frequency: 0.00208333, closing: 1
+2018-06-29 16:11:53,083 - root - INFO - Issue 5: inactive for 0 days, will be closed after 2018-06-30 23:09:42
+2018-06-29 16:11:53,836 - root - INFO - Issue 4: inactive for 0 days, will be closed after 2018-06-30 22:49:51
+2018-06-29 16:11:53,836 - root - INFO - Processed 2 open issues. 0 issues closed. 0 warnings posted.
+2018-06-29 16:12:14,209 - root - INFO - Checking rate limit for user Seanmbecker97
+2018-06-29 16:12:14,463 - root - INFO - Limit: 5000, Remaining: 4884, Reset: 2018-06-29 16:52:27
+2018-06-29 16:12:14,465 - root - INFO - Starting close_inactive_issues
+2018-06-29 16:12:14,466 - root - INFO - Repo: Seanmbecker97/IssueManagementBotTest, User: Seanmbecker97
+2018-06-29 16:12:14,466 - root - INFO - warning_start: 0, warning_frequency: 0.00208333, closing: 1
+2018-06-29 16:12:15,535 - root - INFO - Issue 5: inactive for 0 days, will be closed after 2018-06-30 23:09:42
+2018-06-29 16:12:16,237 - root - INFO - Issue 4: inactive for 0 days, will be closed after 2018-06-30 22:49:51
+2018-06-29 16:12:16,237 - root - INFO - Processed 2 open issues. 0 issues closed. 0 warnings posted.
+2018-06-29 16:12:35,965 - root - INFO - Checking rate limit for user Seanmbecker97
+2018-06-29 16:12:36,216 - root - INFO - Limit: 5000, Remaining: 4877, Reset: 2018-06-29 16:52:27
+2018-06-29 16:12:36,219 - root - INFO - Starting close_inactive_issues
+2018-06-29 16:12:36,219 - root - INFO - Repo: Seanmbecker97/IssueManagementBotTest, User: Seanmbecker97
+2018-06-29 16:12:36,219 - root - INFO - warning_start: 0, warning_frequency: 0.00208333, closing: 1
+2018-06-29 16:12:37,236 - root - INFO - Issue 5: inactive for 0 days, will be closed after 2018-06-30 23:09:42
+2018-06-29 16:12:37,964 - root - INFO - Issue 4: inactive for 0 days, will be closed after 2018-06-30 22:49:51
+2018-06-29 16:12:37,964 - root - INFO - Processed 2 open issues. 0 issues closed. 0 warnings posted.
+2018-06-29 16:13:53,177 - root - INFO - Checking rate limit for user Seanmbecker97
+2018-06-29 16:13:53,454 - root - INFO - Limit: 5000, Remaining: 4870, Reset: 2018-06-29 16:52:27
+2018-06-29 16:13:53,456 - root - INFO - Starting close_inactive_issues
+2018-06-29 16:13:53,456 - root - INFO - Repo: Seanmbecker97/IssueManagementBotTest, User: Seanmbecker97
+2018-06-29 16:13:53,456 - root - INFO - warning_start: 0, warning_frequency: 0.00208333, closing: 1
+2018-06-29 16:13:54,879 - root - INFO - Issue 5: inactive for 0 days, will be closed after 2018-06-30 23:09:42
+2018-06-29 16:13:55,650 - root - INFO - Issue 4: inactive for 0 days, will be closed after 2018-06-30 22:49:51
+2018-06-29 16:13:55,650 - root - INFO - Processed 2 open issues. 0 issues closed. 0 warnings posted.
+2018-06-29 16:14:12,066 - root - INFO - Checking rate limit for user Seanmbecker97
+2018-06-29 16:14:12,483 - root - INFO - Limit: 5000, Remaining: 4863, Reset: 2018-06-29 16:52:27
+2018-06-29 16:14:12,486 - root - INFO - Starting close_inactive_issues
+2018-06-29 16:14:12,486 - root - INFO - Repo: Seanmbecker97/IssueManagementBotTest, User: Seanmbecker97
+2018-06-29 16:14:12,486 - root - INFO - warning_start: 0, warning_frequency: 0.00208333, closing: 1
+2018-06-29 16:14:13,623 - root - INFO - Issue 5: warning posted, inactive for 0 days, will be closed after 2018-06-30 23:09:42
+2018-06-29 16:14:14,693 - root - INFO - Issue 4: inactive for 0 days, will be closed after 2018-06-30 22:49:51
+2018-06-29 16:14:14,693 - root - INFO - Processed 2 open issues. 0 issues closed. 1 warnings posted.
+2018-06-29 16:15:57,701 - root - INFO - Checking rate limit for user Seanmbecker97
+2018-06-29 16:15:58,184 - root - INFO - Limit: 5000, Remaining: 4855, Reset: 2018-06-29 16:52:27
+2018-06-29 16:15:58,189 - root - INFO - Starting close_inactive_issues
+2018-06-29 16:15:58,189 - root - INFO - Repo: Seanmbecker97/IssueManagementBotTest, User: Seanmbecker97
+2018-06-29 16:15:58,190 - root - INFO - warning_start: 0, warning_frequency: 0.00208333, closing: 1
+2018-06-29 16:15:59,226 - root - INFO - Issue 5: inactive for 0 days, will be closed after 2018-06-30 23:09:42
+2018-06-29 16:16:00,174 - root - INFO - Issue 4: inactive for 0 days, will be closed after 2018-06-30 22:49:51
+2018-06-29 16:16:00,174 - root - INFO - Processed 2 open issues. 0 issues closed. 0 warnings posted.
+2018-06-29 16:16:06,149 - root - INFO - Checking rate limit for user Seanmbecker97
+2018-06-29 16:16:06,401 - root - INFO - Limit: 5000, Remaining: 4848, Reset: 2018-06-29 16:52:27
+2018-06-29 16:16:06,404 - root - INFO - Starting close_inactive_issues
+2018-06-29 16:16:06,404 - root - INFO - Repo: Seanmbecker97/IssueManagementBotTest, User: Seanmbecker97
+2018-06-29 16:16:06,404 - root - INFO - warning_start: 0, warning_frequency: 0.00208333, closing: 1
+2018-06-29 16:16:07,730 - root - INFO - Issue 5: inactive for 0 days, will be closed after 2018-06-30 23:09:42
+2018-06-29 16:16:08,659 - root - INFO - Issue 4: inactive for 0 days, will be closed after 2018-06-30 22:49:51
+2018-06-29 16:16:08,660 - root - INFO - Processed 2 open issues. 0 issues closed. 0 warnings posted.
+2018-06-29 16:16:21,799 - root - INFO - Checking rate limit for user Seanmbecker97
+2018-06-29 16:16:22,051 - root - INFO - Limit: 5000, Remaining: 4841, Reset: 2018-06-29 16:52:27
+2018-06-29 16:16:22,053 - root - INFO - Starting close_inactive_issues
+2018-06-29 16:16:22,053 - root - INFO - Repo: Seanmbecker97/IssueManagementBotTest, User: Seanmbecker97
+2018-06-29 16:16:22,053 - root - INFO - warning_start: 0, warning_frequency: 0.00208333, closing: 1
+2018-06-29 16:16:23,068 - root - INFO - Issue 5: warning posted, inactive for 0 days, will be closed after 2018-06-30 23:09:42
+2018-06-29 16:16:46,942 - root - INFO - Checking rate limit for user Seanmbecker97
+2018-06-29 16:16:47,193 - root - INFO - Limit: 5000, Remaining: 4837, Reset: 2018-06-29 16:52:27
+2018-06-29 16:16:47,196 - root - INFO - Starting close_inactive_issues
+2018-06-29 16:16:47,196 - root - INFO - Repo: Seanmbecker97/IssueManagementBotTest, User: Seanmbecker97
+2018-06-29 16:16:47,197 - root - INFO - warning_start: 0, warning_frequency: 0.00208333, closing: 1
+2018-06-29 16:16:48,390 - root - INFO - Issue 5: warning posted, inactive for 0 days, will be closed after 2018-06-30 23:09:42
+2018-06-29 16:16:49,685 - root - INFO - Issue 4: inactive for 0 days, will be closed after 2018-06-30 22:49:51
+2018-06-29 16:16:49,686 - root - INFO - Processed 2 open issues. 0 issues closed. 1 warnings posted.
+2018-06-29 16:17:23,405 - root - INFO - Checking rate limit for user Seanmbecker97
+2018-06-29 16:17:23,718 - root - INFO - Limit: 5000, Remaining: 4829, Reset: 2018-06-29 16:52:27
+2018-06-29 16:17:23,721 - root - INFO - Starting close_inactive_issues
+2018-06-29 16:17:23,721 - root - INFO - Repo: Seanmbecker97/IssueManagementBotTest, User: Seanmbecker97
+2018-06-29 16:17:23,721 - root - INFO - warning_start: 0, warning_frequency: 0.00208333, closing: 1
+2018-06-29 16:17:24,728 - root - INFO - Issue 5: warning posted, inactive for 0 days, will be closed after 2018-06-30 23:09:42
+2018-06-29 16:17:25,992 - root - INFO - Issue 4: inactive for 0 days, will be closed after 2018-06-30 22:49:51
+2018-06-29 16:17:25,992 - root - INFO - Processed 2 open issues. 0 issues closed. 1 warnings posted.
+2018-06-29 16:18:32,768 - root - INFO - Checking rate limit for user Seanmbecker97
+2018-06-29 16:18:33,060 - root - INFO - Limit: 5000, Remaining: 4821, Reset: 2018-06-29 16:52:27
+2018-06-29 16:18:33,063 - root - INFO - Starting close_inactive_issues
+2018-06-29 16:18:33,063 - root - INFO - Repo: Seanmbecker97/IssueManagementBotTest, User: Seanmbecker97
+2018-06-29 16:18:33,063 - root - INFO - warning_start: 0, warning_frequency: 0.00208333, closing: 1
+2018-06-29 16:18:34,034 - root - INFO - Issue 5: warning posted, inactive for 0 days, will be closed after 2018-06-30 23:09:42
+2018-06-29 16:18:35,268 - root - INFO - Issue 4: inactive for 0 days, will be closed after 2018-06-30 22:49:51
+2018-06-29 16:18:35,269 - root - INFO - Processed 2 open issues. 0 issues closed. 1 warnings posted.

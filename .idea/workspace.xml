@@ -43,8 +43,8 @@
       <file leaf-file-name="github_bot.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/github_bot.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+            <state relative-caret-position="75">
+              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -61,8 +61,8 @@
       <file leaf-file-name="issues.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/github_bot_close_inactive_issues/issues.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="176">
+              <caret line="37" column="58" lean-forward="true" selection-start-line="37" selection-start-column="58" selection-end-line="37" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -75,8 +75,8 @@
       <file leaf-file-name="Issue.py" pinned="false" current-in-tab="false">
         <entry file="file:///Library/Python/2.7/site-packages/github/Issue.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
-              <caret line="276" selection-start-line="276" selection-end-line="276" />
+            <state relative-caret-position="129">
+              <caret line="67" column="49" selection-start-line="67" selection-start-column="45" selection-end-line="67" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -127,7 +127,9 @@
       <find>warnings</find>
       <find>labels</find>
       <find>l</find>
+      <find>issue.labels</find>
       <find>warning</find>
+      <find>user</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -351,15 +353,15 @@
     <entry file="file://$PROJECT_DIR$/github_bot_close_inactive_issues/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/github_bot.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/github_bot.yml">
+    <entry file="file://$PROJECT_DIR$/rootPath.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        <state relative-caret-position="30">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/github_bot.log">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/github-rate-limit.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -381,24 +383,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rootPath.py">
+    <entry file="file://$PROJECT_DIR$/github_bot.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        <state relative-caret-position="75">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file:///Library/Python/2.7/site-packages/github/Issue.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="276" selection-start-line="276" selection-end-line="276" />
+        <state relative-caret-position="129">
+          <caret line="67" column="49" selection-start-line="67" selection-start-column="45" selection-end-line="67" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/github_bot_close_inactive_issues/issues.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="176">
+          <caret line="37" column="58" lean-forward="true" selection-start-line="37" selection-start-column="58" selection-end-line="37" selection-end-column="58" />
         </state>
       </provider>
     </entry>

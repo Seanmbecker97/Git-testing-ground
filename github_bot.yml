@@ -1,9 +1,9 @@
 user: Seanmbecker97
-token: 5f7fdafb4ed6973fb869dd1a6f4421ba61f6bfa9
+token: 16af21d2f0f815beb173354e692cd199d1db94c8
 repo: Seanmbecker97/IssueManagementBotTest
 messages:
   warning: >
-    Heads up! this issue has been inactive for {days_inactive} days and
+    Heads up {assignee}! this issue has been inactive for {days_inactive} days and
     will be automatically closed on {deadline:%Y-%m-%d} if there is no further activity. 
     If you believe that this issue has changed in its severity, feel free to change it
     from its current severity to one of lower priority. Regardless, take a look to make
@@ -16,7 +16,7 @@ messages:
 schedule:
   warning_start: 0 # days before starting warnings
   warning_frequency: 0.00208333 # minimum time between warnings
-  closing: 0 # days before closing
+  closing: 1 # days before closing
 
 # label to add to issues when closing automatically 
 label: inactive

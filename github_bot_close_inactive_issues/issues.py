@@ -36,7 +36,8 @@ def issue_close(issue, config, days_inactive, label):
 
 
 def issue_warning(issue, config, days_inactive, deadline):
-    body = config["messages"]["warning"].format(days_inactive=days_inactive, deadline=deadline)
+    assignee = "@" + str(issue.assignee).split("\"")[1]
+    body = config["messages"]["warning"].format(assignee=assignee, days_inactive=days_inactive, deadline=deadline)
     issue.create_comment(body)
 
 
