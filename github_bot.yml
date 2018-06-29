@@ -14,7 +14,7 @@ messages:
     You may reopen this issue if you believe that it can be fixed, or if this issue has been
     closed in error. 
 schedule:
-  warning_start: 0.00347222 # days before starting warnings
+  warning_start: 0 # days before starting warnings
   warning_frequency: .000694444  # minimum time between warnings
   closing: .00694444 # days before closing
 
