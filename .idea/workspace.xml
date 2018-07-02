@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8dcaedb-e81e-40b6-af59-faeda0b6168a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github_bot_close_inactive_issues/close_inactive_issues.py" beforeDir="false" afterPath="$PROJECT_DIR$/github_bot_close_inactive_issues/close_inactive_issues.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/github_bot.log" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/github_bot.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,8 +16,8 @@
       <file leaf-file-name="close_inactive_issues.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/github_bot_close_inactive_issues/close_inactive_issues.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="7" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -134,8 +132,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-329" />
-    <option name="y" value="-1263" />
+    <option name="x" value="-242" />
+    <option name="y" value="-1300" />
     <option name="width" value="1260" />
     <option name="height" value="760" />
   </component>
@@ -265,16 +263,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-329" y="-1263" width="1260" height="760" extended-state="0" />
+    <frame x="-242" y="-1300" width="1260" height="760" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32944608" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32944608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -494,13 +492,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/github_bot_close_inactive_issues/issues.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" column="40" selection-start-line="43" selection-start-column="40" selection-end-line="43" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/github_bot_close_inactive_issues/utils.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
@@ -518,10 +509,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/github_bot_close_inactive_issues/issues.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="40" selection-start-line="43" selection-start-column="40" selection-end-line="43" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/github_bot_close_inactive_issues/close_inactive_issues.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="7" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
