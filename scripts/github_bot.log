@@ -646,3 +646,10 @@
 2018-07-02 08:55:37,506 - root - INFO - Checking rate limit for user Seanmbecker97
 2018-07-02 09:57:10,565 - root - INFO - Checking rate limit for user Seanmbecker97
 2018-07-02 10:02:27,223 - root - INFO - Checking rate limit for user Seanmbecker97
+2018-07-02 13:24:29,440 - root - INFO - Checking rate limit for user Seanmbecker97
+2018-07-02 13:26:20,711 - root - INFO - Checking rate limit for user Seanmbecker97
+2018-07-02 13:26:21,007 - root - INFO - Limit: 5000, Remaining: 5000, Reset: 2018-07-02 14:26:20
+2018-07-02 13:26:21,010 - root - INFO - Starting close_inactive_issues
+2018-07-02 13:26:21,010 - root - INFO - Repo: Seanmbecker97/IssueManagementBotTest, User: Seanmbecker97
+2018-07-02 13:26:21,010 - root - INFO - warning_start: 0, warning_frequency: 0.00208333, closing: 1
+2018-07-02 13:26:21,423 - root - INFO - Processed 0 open issues. 0 issues closed. 0 warnings posted.

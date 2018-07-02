@@ -48,7 +48,6 @@ def get_deadline(lm, config):
     deadline = lm + timedelta(days=closing)
     if first_closing_date:
         return max(deadline, first_closing_date)
-    else:
         return deadline
 
 
