@@ -653,3 +653,4 @@
 2018-07-02 13:26:21,010 - root - INFO - Repo: Seanmbecker97/IssueManagementBotTest, User: Seanmbecker97
 2018-07-02 13:26:21,010 - root - INFO - warning_start: 0, warning_frequency: 0.00208333, closing: 1
 2018-07-02 13:26:21,423 - root - INFO - Processed 0 open issues. 0 issues closed. 0 warnings posted.
+2018-07-02 16:13:08,439 - root - INFO - Checking rate limit for user Seanmbecker97
