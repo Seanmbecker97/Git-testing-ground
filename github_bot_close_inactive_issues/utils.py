@@ -31,7 +31,7 @@ def get_config(config_file=None):
     if not os.path.exists(config_file):
         raise ValueError("Configuration file does not exist: {}".format(config_file))
     with open(config_file) as f:
-        return yaml.load(f)
+        return yaml.safe_load(f)
 
 
 def connect(config):
