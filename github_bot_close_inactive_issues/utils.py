@@ -44,7 +44,7 @@ def get_deadline(lm, config):
     first_closing_date = None
     if "first_closing_date" in config:
         first_closing_date = config["first_closing_date"]
-    closing = config["schedule"]["closing"]
+    closing = int(config["schedule"]["closing"])
     deadline = lm + timedelta(days=closing)
     if first_closing_date:
         return max(deadline, first_closing_date)

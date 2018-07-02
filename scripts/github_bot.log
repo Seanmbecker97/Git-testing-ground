@@ -654,3 +654,9 @@
 2018-07-02 13:26:21,010 - root - INFO - warning_start: 0, warning_frequency: 0.00208333, closing: 1
 2018-07-02 13:26:21,423 - root - INFO - Processed 0 open issues. 0 issues closed. 0 warnings posted.
 2018-07-02 16:13:08,439 - root - INFO - Checking rate limit for user Seanmbecker97
+2018-07-02 16:28:24,002 - root - INFO - Checking rate limit for user Seanmbecker97
+2018-07-02 16:28:24,330 - root - INFO - Limit: 5000, Remaining: 4993, Reset: 2018-07-02 17:13:37
+2018-07-02 16:28:24,333 - root - INFO - Starting close_inactive_issues
+2018-07-02 16:28:24,333 - root - INFO - Repo: Seanmbecker97/IssueManagementBotTest, User: Seanmbecker97
+2018-07-02 16:28:24,333 - root - INFO - warning_start: 1, warning_frequency: 3, closing: 8
+2018-07-02 16:28:24,876 - root - INFO - Processed 0 open issues. 0 issues closed. 0 warnings posted.

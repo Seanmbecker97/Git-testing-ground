@@ -1,5 +1,5 @@
 user: Seanmbecker97
-token: fcb7056cf95210b53c3df870821748289df63e67
+token: 70a354c6b3af44d97ed5dfceb2eb728103706426
 repo: Seanmbecker97/IssueManagementBotTest
 messages:
   warning: >
@@ -13,9 +13,9 @@ messages:
     You may reopen this issue if you believe that it can be fixed, or if this issue has been
     closed in error.
 schedule:
-  warning_start: 0 # days before starting warnings
-  warning_frequency: 0.00208333 # minimum time between warnings
-  closing: 1 # days before closing
+  warning_start: 1 # days before starting warnings
+  warning_frequency: 3 # minimum time between warnings
+  closing: 8 # days before closing
 
 # label to add to issues when closing automatically
 label: inactive
