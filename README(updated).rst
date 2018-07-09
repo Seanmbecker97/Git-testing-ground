@@ -51,8 +51,11 @@ overridden by the command line.
     repo: user/repo
     messages:
       warning: >
-        Warning: this issue has been inactive for {days_inactive} days and
-        will be automatically closed on {deadline:%Y-%m-%d} if there is no further activity.
+       Heads up {assignee}! this issue has been inactive for {days_inactive} days and will be automatically
+    closed on {deadline:%Y-%m-%d} if there is no further activity.If you believe that this issue
+    has changed in its severity, feel free to change it from its current severity to one of
+    lower priority. Regardless, take a look to make sure whether or not this issue is either
+    solvable at this current time, and adjust or attend to it accordingly.
       closing: >
         Notice: this issue has been closed because it has been inactive for {days_inactive} days.
         You may reopen this issue if it has been closed in error.
@@ -77,8 +80,7 @@ overridden by the command line.
 
     # Do not warn or close issues with these labels (optional)
     # ignore-labels:
-    #   - label1
-    #   - label2
+    #   - blocked
 
 Scripts
 -------
